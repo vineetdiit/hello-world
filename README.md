@@ -6,5 +6,7 @@ This tutorial mainly focuses on using git and github
 
 This repository is built step by step in the tutorial.
 
+hi thi is for creating a branch
+
 it now includes steps for github
 
